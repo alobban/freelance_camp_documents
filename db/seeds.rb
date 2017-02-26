@@ -12,6 +12,6 @@
       title: "Document #{d}",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco",
       file_url: "https://drive.google.com/file/d/0B3kQC0D3RD2lWWVkMm9QbDZ1NWs/view?usp=sharing",
-      image_url: "https://drive.google.com/open?id=0B3kQC0D3RD2lZ28zRjJtTEUtTU0"
+      image_url: "https://pbs.twimg.com/profile_images/719923811022479360/zTOWqdxN.jpg"
   )
 end
